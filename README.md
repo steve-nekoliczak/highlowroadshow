@@ -2,10 +2,10 @@
 
 ## Local Development Setup in Ubuntu
 
-- [Install postgres](/README.md#installing-postgres).
-- [Install asdf and Elixir/Erlang](/README.md#installing-asdf-and-Elixir/Erlang).
-- [Configure the Application](/README.md#configuring-the-application).
-- [Run the Server](/README.md#running-the-server).
+- [Install postgres](#installing-postgres)
+- [Install asdf and Elixir/Erlang](#installing-asdf-and-elixirerlang)
+- [Configure the Application](#configuring-the-application)
+- [Run the Server](#running-the-server)
 
 ## Installing Postgres
 
